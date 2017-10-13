@@ -1,5 +1,5 @@
 # AutoPlay_Linux
-A# AutoPlay (Linux Version) <img src="https://raw.githubusercontent.com/IRGeekSauce/AutoPlay/master/headphones.ico" alt="Icon">
+AutoPlay (Linux Version) <img src="https://raw.githubusercontent.com/IRGeekSauce/AutoPlay/master/headphones.ico" alt="Icon">
 
 What is it? 
 -----------
