@@ -13,6 +13,11 @@ If you want the Windows version, go <a href="https://github.com/IRGeekSauce/Auto
 
 Installation
 ------------
+
+You need to have xdotool installed before using. To install xdotool:
+sudo apt-get update
+sudo apt-get install xdotool
+
 It is recommended to place playlist.sh and playlist2.sh into your /home folder
 so you can just open terminal and type "./playlist.sh".
 Make sure you "chmod u+x playlist.sh && chmod u+x playlist2.sh" in terminal
